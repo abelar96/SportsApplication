@@ -1,0 +1,27 @@
+E:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\obj\Debug\SportsPro-BusinessClassLibrary.csprojAssemblyReference.cache
+E:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\obj\Debug\SportsPro-BusinessClassLibrary.csproj.CoreCompileInputs.cache
+E:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\bin\Debug\SportsPro-BusinessClassLibrary.dll
+E:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\bin\Debug\SportsPro-BusinessClassLibrary.pdb
+E:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\bin\Debug\SportsPro-DatabaseClassLibrary.dll
+E:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\bin\Debug\SportsPro-DatabaseClassLibrary.pdb
+E:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\obj\Debug\SportsPro-BusinessClassLibrary.csproj.CopyComplete
+E:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\obj\Debug\SportsPro-BusinessClassLibrary.dll
+E:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\obj\Debug\SportsPro-BusinessClassLibrary.pdb
+D:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\bin\Debug\SportsPro-BusinessClassLibrary.dll
+D:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\bin\Debug\SportsPro-BusinessClassLibrary.pdb
+D:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\bin\Debug\SportsPro-DatabaseClassLibrary.dll
+D:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\bin\Debug\SportsPro-DatabaseClassLibrary.pdb
+D:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\obj\Debug\SportsPro-BusinessClassLibrary.csprojAssemblyReference.cache
+D:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\obj\Debug\SportsPro-BusinessClassLibrary.csproj.CoreCompileInputs.cache
+D:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\obj\Debug\SportsPro-BusinessClassLibrary.csproj.CopyComplete
+D:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\obj\Debug\SportsPro-BusinessClassLibrary.dll
+D:\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\obj\Debug\SportsPro-BusinessClassLibrary.pdb
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\bin\Debug\SportsPro-BusinessClassLibrary.dll
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\bin\Debug\SportsPro-BusinessClassLibrary.pdb
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\bin\Debug\SportsPro-DatabaseClassLibrary.dll
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\bin\Debug\SportsPro-DatabaseClassLibrary.pdb
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\obj\Debug\SportsPro-BusinessClassLibrary.csprojAssemblyReference.cache
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\obj\Debug\SportsPro-BusinessClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\obj\Debug\SportsPro-BusinessClassLibrary.csproj.CopyComplete
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\obj\Debug\SportsPro-BusinessClassLibrary.dll
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-BusinessClassLibrary\obj\Debug\SportsPro-BusinessClassLibrary.pdb

@@ -1,0 +1,18 @@
+E:\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\bin\Debug\SportsPro-DatabaseClassLibrary.dll
+E:\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\bin\Debug\SportsPro-DatabaseClassLibrary.pdb
+E:\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\obj\Debug\SportsPro-DatabaseClassLibrary.csprojAssemblyReference.cache
+E:\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\obj\Debug\SportsPro-DatabaseClassLibrary.csproj.CoreCompileInputs.cache
+E:\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\obj\Debug\SportsPro-DatabaseClassLibrary.dll
+E:\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\obj\Debug\SportsPro-DatabaseClassLibrary.pdb
+D:\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\bin\Debug\SportsPro-DatabaseClassLibrary.dll
+D:\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\bin\Debug\SportsPro-DatabaseClassLibrary.pdb
+D:\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\obj\Debug\SportsPro-DatabaseClassLibrary.csprojAssemblyReference.cache
+D:\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\obj\Debug\SportsPro-DatabaseClassLibrary.csproj.CoreCompileInputs.cache
+D:\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\obj\Debug\SportsPro-DatabaseClassLibrary.dll
+D:\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\obj\Debug\SportsPro-DatabaseClassLibrary.pdb
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\bin\Debug\SportsPro-DatabaseClassLibrary.dll
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\bin\Debug\SportsPro-DatabaseClassLibrary.pdb
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\obj\Debug\SportsPro-DatabaseClassLibrary.csprojAssemblyReference.cache
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\obj\Debug\SportsPro-DatabaseClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\obj\Debug\SportsPro-DatabaseClassLibrary.dll
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-DatabaseClassLibrary\obj\Debug\SportsPro-DatabaseClassLibrary.pdb

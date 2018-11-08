@@ -1,0 +1,54 @@
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-UserInterface.exe.config
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-UserInterface.exe
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-UserInterface.pdb
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.csprojAssemblyReference.cache
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro_UserInterface.FrmMain.resources
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro_UserInterface.Properties.Resources.resources
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.csproj.GenerateResource.cache
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.csproj.CoreCompileInputs.cache
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.exe
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.pdb
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro_UserInterface.FrmTechnicianIncidents.resources
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro_UserInterface.FrmOpenIncidents.resources
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-BusinessClassLibrary.dll
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-DatabaseClassLibrary.dll
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-BusinessClassLibrary.pdb
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-DatabaseClassLibrary.pdb
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.csproj.CopyComplete
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-UserInterface.exe.config
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-UserInterface.exe
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-UserInterface.pdb
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-BusinessClassLibrary.dll
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-DatabaseClassLibrary.dll
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-BusinessClassLibrary.pdb
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-DatabaseClassLibrary.pdb
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.csprojAssemblyReference.cache
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro_UserInterface.FrmMain.resources
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro_UserInterface.FrmOpenIncidents.resources
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro_UserInterface.FrmTechnicianIncidents.resources
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro_UserInterface.Properties.Resources.resources
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.csproj.GenerateResource.cache
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.csproj.CoreCompileInputs.cache
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.csproj.CopyComplete
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.exe
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.pdb
+D:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro_UserInterface.FrmMantainRegistration.resources
+E:\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro_UserInterface.FrmMantainRegistration.resources
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-UserInterface.exe.config
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-UserInterface.exe
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-UserInterface.pdb
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-BusinessClassLibrary.dll
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-DatabaseClassLibrary.dll
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-BusinessClassLibrary.pdb
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\bin\Debug\SportsPro-DatabaseClassLibrary.pdb
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.csprojAssemblyReference.cache
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro_UserInterface.FrmMain.resources
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro_UserInterface.FrmMantainRegistration.resources
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro_UserInterface.FrmOpenIncidents.resources
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro_UserInterface.FrmTechnicianIncidents.resources
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro_UserInterface.Properties.Resources.resources
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.csproj.GenerateResource.cache
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.csproj.CopyComplete
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.exe
+C:\Users\Diego's Dell PC\Desktop\SportsPro-DiegoAbelarMorales\SportsPro-UserInterface\obj\Debug\SportsPro-UserInterface.pdb
